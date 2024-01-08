@@ -1,2 +1,2 @@
-# CursosOBI
-Recursos dados en clases y entrenamientos dados por la Olimpiada Boliviana de Informática
+# Recursos OBI
+Recursos dados en clases y entrenamientos dados por la Olimpiada Boliviana de Informática.
