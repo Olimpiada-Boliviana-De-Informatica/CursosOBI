@@ -20,6 +20,7 @@ Todo competidor que forma parte de la preselección ha sido contactado por el eq
 - 10 cupos para la [OII (Olimpiada Iberoamericana de Informática)](https://www.iberoinformatica.org/countries) + 5 cupos invitados.
 
 ## Links importantes:
+- [__RANKING__](https://docs.google.com/spreadsheets/d/1afOv6X_cwJJczoVRYSFtDynjn0t37giU/edit?usp=sharing&ouid=108406773872541211965&rtpof=true&sd=true)
 - [_Reglas de la preselección_](https://drive.google.com/file/d/1-dBKkdO75zv_054Qd1Jiw6r4UNNfRUbN/view?usp=sharing)
 - [_Canal de anuncios_](https://t.me/+LagfqmNDfhZkMDgx)
 - _Ranking_
