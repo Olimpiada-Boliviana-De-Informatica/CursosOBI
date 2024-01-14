@@ -26,6 +26,5 @@ Todo competidor que forma parte de la preselección ha sido contactado por el eq
 - _Ranking_
 - [_Fechas de clases_](https://docs.google.com/spreadsheets/d/1PPQgUjml65GxCkA18FocPn35yWTEFxdXmlsYXOkZrjA/edit?usp=sharing)
 - [_Recursos de las clases_](https://github.com/Olimpiada-Boliviana-De-Informatica/RecursosOBI/tree/main/Preseleccion_2023-2024)
-- [_Lista de competencias_](https://docs.google.com/spreadsheets/d/1912OhPokgi0gzqJJXVqxQIv-5rxieW3G_15aPlna-A8/edit?usp=sharing) (Quiza no actualizada)
+- [_Lista de competencias_](https://docs.google.com/spreadsheets/d/1afOv6X_cwJJczoVRYSFtDynjn0t37giU/edit#gid=357604937)
 - [_Lista de recursos creada por Diego_](https://diegopenguino.github.io/resources_for_cp)
-- [_Link a los perfiles de Codeforces de los competidores_](https://docs.google.com/spreadsheets/d/1oBaREn0Dv8ff-UmQb8Rfhis4XlDfwBdqenOaPGcQxxs/edit?usp=sharing)
