@@ -20,10 +20,9 @@ Todo competidor que forma parte de la preselección ha sido contactado por el eq
 - 10 cupos para la [OII (Olimpiada Iberoamericana de Informática)](https://www.iberoinformatica.org/countries) + 5 cupos invitados.
 
 ## Links importantes:
-- [__RANKING__](https://docs.google.com/spreadsheets/d/1afOv6X_cwJJczoVRYSFtDynjn0t37giU/edit?usp=sharing&ouid=108406773872541211965&rtpof=true&sd=true)
+### [__RANKING__](https://docs.google.com/spreadsheets/d/1afOv6X_cwJJczoVRYSFtDynjn0t37giU/edit?usp=sharing&ouid=108406773872541211965&rtpof=true&sd=true)
 - [_Reglas de la preselección_](https://drive.google.com/file/d/1-dBKkdO75zv_054Qd1Jiw6r4UNNfRUbN/view?usp=sharing)
 - [_Canal de anuncios_](https://t.me/+LagfqmNDfhZkMDgx)
-- _Ranking_
 - [_Fechas de clases_](https://docs.google.com/spreadsheets/d/1PPQgUjml65GxCkA18FocPn35yWTEFxdXmlsYXOkZrjA/edit?usp=sharing)
 - [_Recursos de las clases_](https://github.com/Olimpiada-Boliviana-De-Informatica/RecursosOBI/tree/main/Preseleccion_2023-2024)
 - [_Lista de competencias_](https://docs.google.com/spreadsheets/d/1afOv6X_cwJJczoVRYSFtDynjn0t37giU/edit#gid=357604937)
